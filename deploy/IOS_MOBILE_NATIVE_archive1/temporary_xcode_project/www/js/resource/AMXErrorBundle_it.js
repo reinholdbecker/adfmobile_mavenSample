@@ -1,0 +1,1 @@
+adf.mf.resource.AMXErrorBundle_it={ERROR_RESOLVING_ATTRIBUTE:"Errore durante la risoluzione del valore {0}","oracle.core.ojdl.logging.MessageIdKeyResourceBundle":""};

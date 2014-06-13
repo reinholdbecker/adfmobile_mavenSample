@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<adfmf-config-service-configuration-data xmlns="http://xmlns.oracle.com/adf/mf">
+    <!-- 
+     This data specifies the iOS bundle files that should be managed by the 
+     configuration service.  Currently we only manage the following:
+            - connections.xml
+     -->
+    <ServiceManagedFile fileName="connections.xml" 
+        managedFilePath=".adf/META-INF/" 
+        bundleFilePath=".adf/META-INF/" 
+        maxRetries="5"
+        xseedUsername="Change to seedUsername to use"
+        xseedPassword="Change to seedPassword to use" />
+</adfmf-config-service-configuration-data>

@@ -1,0 +1,11 @@
+<ADFmf-iOS-Native-Framework>
+    <application-lifecycle-listeners>
+        <application-lifecycle-listener classname="OracleAdfmfApplicationNativeLifecycleBegin" />
+        <application-lifecycle-listener classname="SecurityApplicationLifecycleListener" />
+        <application-lifecycle-listener classname="CVMApplicationLifecycleListener" />
+        <application-lifecycle-listener classname="OracleAdfmfApplicationNativeLifecycleComplete" />
+        <application-lifecycle-listener classname="PushNotificationApplicationLifecycleListener" />
+    </application-lifecycle-listeners>
+    <application-container-utilities-implementer classname="CVMContainerUtilitiesImplementation" />
+    <application-feature-navigation-bar-title-clipping-length iphone="14" ipad="14" />
+</ADFmf-iOS-Native-Framework>

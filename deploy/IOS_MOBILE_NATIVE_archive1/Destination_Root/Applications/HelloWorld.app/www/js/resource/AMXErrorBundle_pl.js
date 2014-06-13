@@ -1,0 +1,1 @@
+adf.mf.resource.AMXErrorBundle_pl={ERROR_RESOLVING_ATTRIBUTE:"B\u0142\u0105d podczas rozstrzygania warto\u015bci {0}","oracle.core.ojdl.logging.MessageIdKeyResourceBundle":""};

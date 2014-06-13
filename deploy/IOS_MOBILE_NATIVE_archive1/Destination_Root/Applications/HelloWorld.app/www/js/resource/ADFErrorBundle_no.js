@@ -1,0 +1,1 @@
+adf.mf.resource.ADFErrorBundle_no={ERROR_IN_EL_PARSING:"Feil ved analyse av EL-uttrykk. Feil: {0}",ERR_MIMETYPES_NOTEQUAL_ATTACHMENTS:"Det angitte antallet MIME-typer, {0}, samsvarer ikke med antallet vedlegg, {1}.","oracle.core.ojdl.logging.MessageIdKeyResourceBundle":""};

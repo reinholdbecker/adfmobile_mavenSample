@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<adfmf-skins xmlns="http://xmlns.oracle.com/adf/mf/skin">
+    <skin>
+        <id>mobileFusionFx.iOS</id>
+        <family>mobileFusionFx</family>
+        <style-sheet-name>skins/mobilefusionfx.ios.css</style-sheet-name>
+    </skin>
+    <skin>
+        <id>mobileFusionFx.Android</id>
+        <family>mobileFusionFx</family>
+        <style-sheet-name>skins/mobilefusionfx.android.css</style-sheet-name>
+    </skin>
+    <skin>
+        <id>mobileFusionFx.iPhone</id>
+        <family>mobileFusionFx</family>
+        <extends>mobileFusionFx.iOS</extends>
+        <style-sheet-name>skins/mobilefusionfx.iphone.css</style-sheet-name>
+    </skin>
+    <skin>
+        <id>mobileFusionFx.iPad</id>
+        <family>mobileFusionFx</family>
+        <extends>mobileFusionFx.iOS</extends>
+        <style-sheet-name>skins/mobilefusionfx.ipad.css</style-sheet-name>
+    </skin>
+    <skin>
+        <id>mobileFusionFx.iPod</id>
+        <family>mobileFusionFx</family>
+        <extends>mobileFusionFx.iOS</extends>
+        <style-sheet-name>skins/mobilefusionfx.ipod.css</style-sheet-name>
+    </skin>
+    <!--  Skin Additions -->
+    <skin-addition>
+        <skin-id>mobileFusionFx.iPhone</skin-id>
+        <style-sheet-name>skins/mystyles.iphone.addidion1.css</style-sheet-name>
+    </skin-addition>
+    <skin-addition>
+        <skin-id>mobileFusionFx.iPhone</skin-id>
+        <style-sheet-name>skins/mystyles.iphone.addidion2.css</style-sheet-name>
+    </skin-addition>
+    <skin-addition>
+        <skin-id>mobileFusionFx.iOS</skin-id>
+        <style-sheet-name>skins/mystyles.ios.addidion2.css</style-sheet-name>
+    </skin-addition>
+</adfmf-skins>

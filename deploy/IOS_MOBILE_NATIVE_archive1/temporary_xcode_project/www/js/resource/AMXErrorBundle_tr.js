@@ -1,0 +1,1 @@
+adf.mf.resource.AMXErrorBundle_tr={ERROR_RESOLVING_ATTRIBUTE:"{0} de\u011feri \u00e7\u00f6z\u00fcl\u00fcrken hata olu\u015ftu","oracle.core.ojdl.logging.MessageIdKeyResourceBundle":""};

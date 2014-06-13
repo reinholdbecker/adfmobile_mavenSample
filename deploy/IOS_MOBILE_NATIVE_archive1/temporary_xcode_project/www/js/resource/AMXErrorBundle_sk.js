@@ -1,0 +1,1 @@
+adf.mf.resource.AMXErrorBundle_sk={ERROR_RESOLVING_ATTRIBUTE:"Chyba pri rozpozn\u00e1van\u00ed hodnoty {0}","oracle.core.ojdl.logging.MessageIdKeyResourceBundle":""};

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<adfmf:features xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adfmf="http://xmlns.oracle.com/adf/mf">
+  <adfmf:feature id="oracle.hello" name="Hello" icon="oracle.hello/navbar-icon.png"
+                 image="oracle.hello/springboard-icon.png">
+    <adfmf:content id="Hello.Generic">
+      <adfmf:localHTML url="oracle.hello/index.html"/>
+    </adfmf:content>
+  </adfmf:feature>
+</adfmf:features>

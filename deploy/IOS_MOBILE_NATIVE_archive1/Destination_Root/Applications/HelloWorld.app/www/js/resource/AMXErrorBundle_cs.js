@@ -1,0 +1,1 @@
+adf.mf.resource.AMXErrorBundle_cs={ERROR_RESOLVING_ATTRIBUTE:"Chyba p\u0159i p\u0159ekladu hodnoty {0}","oracle.core.ojdl.logging.MessageIdKeyResourceBundle":""};

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Change this if you want to allow scaling -->
+        <meta name="viewport" content="width=user-scalable=no, device-width"/>
+        <script type="text/javascript">if (!window.adf) window.adf = {}; adf.wwwPath = "../../../../www/";</script>
+        <script type="text/javascript" src="../../../../www/js/base.js"></script>
+        <script type="text/javascript">
+          var showingNavBar = true;
+
+          function onPageComplete() {
+              showingNavBar = true;
+          }
+
+          function onToggleNavBar() {
+              if (showingNavBar) {
+                  adf.mf.api.hideNavigationBar();
+                  showingNavBar = false;
+              }
+              else {
+                  adf.mf.api.showNavigationBar();
+                  showingNavBar = true;
+              }
+          }
+
+          document.addEventListener("showpagecomplete", onPageComplete, false);
+        </script>
+        <title>Hello World</title>
+    </head>
+    <body>
+        <h1>Hello ESENTRI!!</h1>
+         
+        <button type="button" onclick="onToggleNavBar()">Toggle Nav Bar</button>
+    </body>
+</html>

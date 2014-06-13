@@ -1,0 +1,1 @@
+adf.mf.resource.AMXErrorBundle_no={ERROR_RESOLVING_ATTRIBUTE:"Feil ved tolking av verdien {0}","oracle.core.ojdl.logging.MessageIdKeyResourceBundle":""};

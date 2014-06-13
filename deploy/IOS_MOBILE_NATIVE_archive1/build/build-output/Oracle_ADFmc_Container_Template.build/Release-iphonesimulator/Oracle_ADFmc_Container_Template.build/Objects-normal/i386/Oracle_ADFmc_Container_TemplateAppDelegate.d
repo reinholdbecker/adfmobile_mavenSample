@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/reinholdbecker/jdeveloper/mywork/HelloWorld/deploy/IOS_MOBILE_NATIVE_archive1/temporary_xcode_project/Classes/Oracle_ADFmc_Container_TemplateAppDelegate.m \
+  /Users/reinholdbecker/jdeveloper/mywork/HelloWorld/deploy/IOS_MOBILE_NATIVE_archive1/temporary_xcode_project/Classes/Oracle_ADFmc_Container_TemplateAppDelegate.h \
+  Frameworks/OracleADFMobile.sdk/Headers/ADFShellDelegator.h \
+  Frameworks/OracleADFMobile.sdk/Headers/oraADFContainerDelegate.h \
+  Frameworks/OracleADFMobile.sdk/Headers/oraADFPlatformDelegate.h \
+  Frameworks/OracleADFMobile.sdk/Headers/ADFCommandLineArgs.h \
+  Frameworks/OracleADFMobile.sdk/Headers/oraADFLogger.h \
+  Frameworks/OracleADFMobile.sdk/Headers/ADFApplication.h \
+  Frameworks/OracleADFMobile.sdk/Headers/ADFSession.h \
+  Frameworks/OracleADFMobile.sdk/Headers/ADFUser.h \
+  Frameworks/OracleADFMobile.sdk/Headers/ADFFeatures.h \
+  Frameworks/OracleADFMobile.sdk/Headers/ADFFeature.h \
+  Frameworks/OracleADFMobile.sdk/Headers/ADFLogLevel.h \
+  Frameworks/OracleADFMobile.sdk/Headers/ADFFeatureLifecycleListener.h \
+  Frameworks/OracleADFMobile.sdk/Headers/ADFApplicationLifecycleListener.h \
+  Frameworks/OracleADFMobile.sdk/Headers/ADFTranslation.h \
+  Frameworks/OracleADFMobile.sdk/Headers/oraADFBase.h \
+  Frameworks/OracleADFMobile.sdk/Headers/oraException.h

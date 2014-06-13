@@ -1,0 +1,1 @@
+adf.mf.resource.AMXErrorBundle_zh_CN={ERROR_RESOLVING_ATTRIBUTE:"\u89e3\u6790\u503c {0} \u65f6\u51fa\u9519","oracle.core.ojdl.logging.MessageIdKeyResourceBundle":""};

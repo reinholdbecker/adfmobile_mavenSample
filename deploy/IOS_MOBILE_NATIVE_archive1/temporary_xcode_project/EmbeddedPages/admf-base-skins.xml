@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<adfmf-skins xmlns="http://xmlns.oracle.com/adf/mf/skin">
+    <!-- 
+     This skin file defines the base set of skins that are used by 
+     an iOS Native application.  This skins file is loaded first and
+     then the skins file provided by the developer through JDev is
+     loaded and overlays this set of skins.
+     -->
+    <skin>
+        <family>mobileFusionFx</family>
+        <id>mobileFusionFx.iOS</id>
+        <extends>mobileFusionFx</extends>
+    </skin>
+    <skin>
+        <family>mobileFusionFx</family>
+        <id>mobileFusionFx.iPhone</id>
+        <extends>mobileFusionFx.iOS</extends>
+    </skin>
+    <skin>
+        <family>mobileFusionFx</family>
+        <id>mobileFusionFx.iPad</id>
+        <extends>mobileFusionFx.iOS</extends>
+    </skin>
+    <skin>
+        <family>mobileAlta</family>
+        <id>mobileAlta.iOS</id>
+        <extends>mobileAlta</extends>
+    </skin>
+    <skin>
+        <family>mobileAlta</family>
+        <id>mobileAlta.iPhone</id>
+        <extends>mobileAlta.iOS</extends>
+    </skin>
+    <skin>
+        <family>mobileAlta</family>
+        <id>mobileAlta.iPad</id>
+        <extends>mobileAlta.iOS</extends>
+    </skin>
+</adfmf-skins>

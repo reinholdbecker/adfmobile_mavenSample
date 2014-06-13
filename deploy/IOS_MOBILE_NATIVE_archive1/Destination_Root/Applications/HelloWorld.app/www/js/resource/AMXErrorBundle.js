@@ -1,0 +1,1 @@
+adf.mf.resource.AMXErrorBundle={ERROR_RESOLVING_ATTRIBUTE__ID:"ADF-MF-15001",ERROR_RESOLVING_ATTRIBUTE:"Error while resolving value {0}",ERROR_RESOLVING_ATTRIBUTE_CAUSE:"Error resolving attribute.",ERROR_RESOLVING_ATTRIBUTE_ACTION:"Please contact your local administrator for assistance.","oracle.core.ojdl.logging.MessageIdKeyResourceBundle":""};

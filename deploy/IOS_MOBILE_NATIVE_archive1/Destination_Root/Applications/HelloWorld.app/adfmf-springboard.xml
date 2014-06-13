@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<adfmf:features xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:adfmf="http://xmlns.oracle.com/adf/mf">
+    <adfmf:featureReference id="_Oracle_Default_Springboard_Feature_Id_" showOnSpringboard="false" showOnNavigationBar="false"/>
+    <adfmf:feature id="_Oracle_Default_Springboard_Feature_Id_" name="Springboard" icon="css/images/adf.nativeframework.springboard.icon.png" image="css/images/adf.nativeframework.springboard.image.png">
+        <adfmf:constraints/>
+        <adfmf:description>ADF Standard Default Springboard</adfmf:description> 
+        <adfmf:content id="_Oracle_Default_Springboard_Feature_Id_">
+            <adfmf:constraints /> 
+            <adfmf:localHTML url="adf.springboard.iphone.html" /> 
+        </adfmf:content>
+    </adfmf:feature>
+</adfmf:features>

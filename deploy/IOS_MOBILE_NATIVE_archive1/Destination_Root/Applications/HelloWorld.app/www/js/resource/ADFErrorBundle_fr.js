@@ -1,0 +1,1 @@
+adf.mf.resource.ADFErrorBundle_fr={ERROR_IN_EL_PARSING:"Erreur lors de l''analyse de l''expression EL. Erreur : {0}",ERR_MIMETYPES_NOTEQUAL_ATTACHMENTS:"Le nombre de types MIME indiqu\u00e9s, {0}, ne correspond pas au nombre de pi\u00e8ces jointes, {1}.","oracle.core.ojdl.logging.MessageIdKeyResourceBundle":""};
